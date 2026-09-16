@@ -1,0 +1,14 @@
+# Dependency folders
+node_modules/
+
+# Environment files
+.env
+
+# Local state & logs
+sent_jobs.json
+user_data/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
